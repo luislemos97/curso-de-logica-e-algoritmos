@@ -1,0 +1,15 @@
+
+t
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÄØ±ûÿÿÿÿ
+o
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ğØë•
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚¯¿²ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı½Ğ¤ùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÏË
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÖÛ–ùÿÿÿÿ
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÄØ±ûÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "Pokemom".(ÀÏË
+B
+java:S1481",Remove this unused "Pokemom" local variable.(ÀÏË
